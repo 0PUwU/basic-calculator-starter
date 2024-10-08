@@ -1,4 +1,4 @@
-# Owen Perez
+# Owen Perez & Issac 
 # OCT 8 2024
 # BASIC-Calculsator-starter
 
